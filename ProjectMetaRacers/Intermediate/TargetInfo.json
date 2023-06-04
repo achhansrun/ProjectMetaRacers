@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ProjectMetaRacers",
+			"Path": "C:\\Unreal Projects\\ProjectMetaRacers\\ProjectMetaRacers\\Source\\ProjectMetaRacers.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ProjectMetaRacersEditor",
+			"Path": "C:\\Unreal Projects\\ProjectMetaRacers\\ProjectMetaRacers\\Source\\ProjectMetaRacersEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
