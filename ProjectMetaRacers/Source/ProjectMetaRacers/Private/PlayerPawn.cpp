@@ -54,8 +54,6 @@ void APlayerPawn::Turn(float Value)
 
      const FRotator Rotation = GetController()->GetControlRotation();
      const FRotator YawRotation(0, Rotation.Yaw, 0);
-
-     const FVector Direction = FRotationMatrix(YawRotation).GetUnitAxes(EAxis::X);
 }
 
 // Called every frame
