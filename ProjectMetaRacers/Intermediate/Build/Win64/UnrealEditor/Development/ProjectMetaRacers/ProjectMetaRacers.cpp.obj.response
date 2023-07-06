@@ -1,5 +1,6 @@
 "C:\Unreal Projects\ProjectMetaRacers\ProjectMetaRacers\Source\ProjectMetaRacers\ProjectMetaRacers.cpp"
 /I .
+/I "C:\Unreal Projects\ProjectMetaRacers\ProjectMetaRacers\Source\ProjectMetaRacers\Private"
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\Engine\UHT
 /I Runtime
 /I ..\Shaders\Shared
@@ -271,6 +272,7 @@
 /I Developer\AnimationDataController\Public
 /I "C:\Unreal Projects\ProjectMetaRacers\ProjectMetaRacers\Intermediate\Build\Win64\UnrealEditor\Inc\ProjectMetaRacers\UHT"
 /I "C:\Unreal Projects\ProjectMetaRacers\ProjectMetaRacers\Source"
+/I "C:\Unreal Projects\ProjectMetaRacers\ProjectMetaRacers\Source\ProjectMetaRacers\Public"
 /I ThirdParty\mimalloc\include
 /I ThirdParty\LibTiff\Source\Win64
 /I ThirdParty\LibTiff\Source

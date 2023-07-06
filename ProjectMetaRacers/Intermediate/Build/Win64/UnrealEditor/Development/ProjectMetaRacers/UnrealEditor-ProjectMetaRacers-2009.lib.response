@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-ProjectMetaRacers-2009.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Unreal Projects\ProjectMetaRacers\ProjectMetaRacers\Intermediate\Build\Win64\ProjectMetaRacersEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Unreal Projects\ProjectMetaRacers\ProjectMetaRacers\Intermediate\Build\Win64\UnrealEditor\Development\ProjectMetaRacers\PlayerPawn.gen.cpp.obj"
+"C:\Unreal Projects\ProjectMetaRacers\ProjectMetaRacers\Intermediate\Build\Win64\UnrealEditor\Development\ProjectMetaRacers\ProjectMetaRacers.init.gen.cpp.obj"
+"C:\Unreal Projects\ProjectMetaRacers\ProjectMetaRacers\Intermediate\Build\Win64\UnrealEditor\Development\ProjectMetaRacers\ProjectMetaRacersGameModeBase.gen.cpp.obj"
+"C:\Unreal Projects\ProjectMetaRacers\ProjectMetaRacers\Intermediate\Build\Win64\UnrealEditor\Development\ProjectMetaRacers\ProjectMetaRacers.cpp.obj"
+"C:\Unreal Projects\ProjectMetaRacers\ProjectMetaRacers\Intermediate\Build\Win64\UnrealEditor\Development\ProjectMetaRacers\ProjectMetaRacersGameModeBase.cpp.obj"
+"C:\Unreal Projects\ProjectMetaRacers\ProjectMetaRacers\Intermediate\Build\Win64\UnrealEditor\Development\ProjectMetaRacers\PlayerPawn.cpp.obj"
+"C:\Unreal Projects\ProjectMetaRacers\ProjectMetaRacers\Intermediate\Build\Win64\UnrealEditor\Development\ProjectMetaRacers\Default.rc2.res"
+/OUT:"C:\Unreal Projects\ProjectMetaRacers\ProjectMetaRacers\Intermediate\Build\Win64\UnrealEditor\Development\ProjectMetaRacers\UnrealEditor-ProjectMetaRacers-2009.lib"

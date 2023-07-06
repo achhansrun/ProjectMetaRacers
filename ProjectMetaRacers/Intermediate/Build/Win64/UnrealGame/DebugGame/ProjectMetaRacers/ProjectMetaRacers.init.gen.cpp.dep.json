@@ -1,0 +1,13 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\unreal projects\\projectmetaracers\\projectmetaracers\\intermediate\\build\\win64\\unrealgame\\inc\\projectmetaracers\\uht\\projectmetaracers.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\unreal projects\\projectmetaracers\\projectmetaracers\\intermediate\\build\\win64\\projectmetaracers\\debuggame\\engine\\sharedpch.engine.nonoptimized.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\unreal projects\\projectmetaracers\\projectmetaracers\\intermediate\\build\\win64\\unrealgame\\debuggame\\projectmetaracers\\definitions.projectmetaracers.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
