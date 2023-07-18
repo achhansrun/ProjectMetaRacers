@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"C:\\Unreal Projects\\ProjectMetaRacers\\ProjectMetaRacers\\Source\\ProjectMetaRacers\\ProjectMetaRacers.Build.cs",
-		"C:\\Unreal Projects\\ProjectMetaRacers\\ProjectMetaRacers\\Source\\ProjectMetaRacers.Target.cs",
-		"C:\\Unreal Projects\\ProjectMetaRacers\\ProjectMetaRacers\\Source\\ProjectMetaRacersEditor.Target.cs"
+		"C:\\Users\\Fals3\\Desktop\\Summer Repo\\ProjectMetaRacers\\ProjectMetaRacers\\ProjectMetaRacers\\Source\\ProjectMetaRacers\\ProjectMetaRacers.Build.cs",
+		"C:\\Users\\Fals3\\Desktop\\Summer Repo\\ProjectMetaRacers\\ProjectMetaRacers\\ProjectMetaRacers\\Source\\ProjectMetaRacers.Target.cs",
+		"C:\\Users\\Fals3\\Desktop\\Summer Repo\\ProjectMetaRacers\\ProjectMetaRacers\\ProjectMetaRacers\\Source\\ProjectMetaRacersEditor.Target.cs"
 	],
 	"EngineVersion": "5.1.1"
 }
