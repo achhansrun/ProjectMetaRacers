@@ -1,51 +1,64 @@
-# Ignore all files by default, but scan all directories.
-*
-!*/
+# Unreal Engine generated files
+Intermediate/
+Saved/
+DerivedDataCache/
+*.sln
+*.suo
+*.xcworkspace/
+*.ipch/
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.opendb
 
-# Do not ignore git files in the root of the repo.
-!/.git*
+# Compiled binaries and build files
+Binaries/
+Build/
 
-# Do not ignore current project's `.uproject`.
-!/*.uproject
+# Ignore log files
+*.log
 
-# Do not ignore source, config and plugins dirs.
-!/Source/**
-!/Config/**
-!/Plugins/**
+# Ignore user-specific files
+*.user
+*.suo
+*.userprefs
+*.orig
 
-# Only allow .uasset and .umap files from /Content dir.
-# They're tracked by git-lfs, don't forget to track other
-# files if adding them here.
-!/Content/**/*.uasset
-!/Content/**/*.umap
+# Ignore autosave files
+*.autosave
 
-# Allow any files from /RawContent dir.
-# Any file in /RawContent dir will be managed by git lfs.
-!/RawContent/**/*
+# Ignore compiled shader code
+DerivedDataCache/
 
-# OS/platform generated files.
-
-# Windows
-ehthumbs.db
-Thumbs.db
-
-# Mac OS X
+# Ignore macOS folder attributes
 .DS_Store
-.DS_Store?
-.AppleDouble
-.LSOverride
+
+# Ignore Visual Studio Code workspace settings (if you're using VSCode)
+.vscode/
+
+# Ignore macOS resource fork files
 ._*
 
-# Linux
-*~
-.directory
+# Ignore compiled UE5 editor plugins
+Plugins/*/Binaries/
 
-# vim
-[._]*.s[a-w][a-z]
-[._]s[a-w][a-z]
-*.un~
-Session.vim
-.netrwhist
+# Ignore certain UE5 metadata files
+*.uprojectdirs
+*.uprojectinsights
 
-# Visual Studio
-.vs
+# Ignore compiled UE5 game plugins
+Game/Plugins/*/Binaries/
+
+# Ignore Android generated files
+*.apk
+*.aab
+*.apk.*
+*.obb
+
+# Ignore iOS generated files
+*.ipa
+*.xcarchive
+*.dSYM.zip
+
+# Ignore Linux build files
+LinuxNoEditor/
