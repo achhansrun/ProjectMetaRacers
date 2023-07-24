@@ -1,9 +1,17 @@
 [
 	{
+		"file": "C:\\Unreal Projects\\ProjectMetaRacers\\ProjectMetaRacers\\Source\\ProjectMetaRacers\\Private\\PlayerCar.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Unreal Projects\\ProjectMetaRacers\\ProjectMetaRacers\\.vscode\\compileCommands_ProjectMetaRacers\\ProjectMetaRacers.257.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
 		"file": "C:\\Unreal Projects\\ProjectMetaRacers\\ProjectMetaRacers\\Source\\ProjectMetaRacers\\Private\\PlayerPawn.cpp",
 		"arguments": [
 			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
-			"@C:\\Unreal Projects\\ProjectMetaRacers\\ProjectMetaRacers\\.vscode\\compileCommands_ProjectMetaRacers\\ProjectMetaRacers.255.rsp"
+			"@C:\\Unreal Projects\\ProjectMetaRacers\\ProjectMetaRacers\\.vscode\\compileCommands_ProjectMetaRacers\\ProjectMetaRacers.257.rsp"
 		],
 		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
 	},
@@ -11,7 +19,7 @@
 		"file": "C:\\Unreal Projects\\ProjectMetaRacers\\ProjectMetaRacers\\Source\\ProjectMetaRacers\\ProjectMetaRacers.Build.cs",
 		"arguments": [
 			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
-			"@C:\\Unreal Projects\\ProjectMetaRacers\\ProjectMetaRacers\\.vscode\\compileCommands_ProjectMetaRacers\\ProjectMetaRacers.255.rsp"
+			"@C:\\Unreal Projects\\ProjectMetaRacers\\ProjectMetaRacers\\.vscode\\compileCommands_ProjectMetaRacers\\ProjectMetaRacers.257.rsp"
 		],
 		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
 	},
@@ -19,7 +27,7 @@
 		"file": "C:\\Unreal Projects\\ProjectMetaRacers\\ProjectMetaRacers\\Source\\ProjectMetaRacers\\ProjectMetaRacers.cpp",
 		"arguments": [
 			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
-			"@C:\\Unreal Projects\\ProjectMetaRacers\\ProjectMetaRacers\\.vscode\\compileCommands_ProjectMetaRacers\\ProjectMetaRacers.255.rsp"
+			"@C:\\Unreal Projects\\ProjectMetaRacers\\ProjectMetaRacers\\.vscode\\compileCommands_ProjectMetaRacers\\ProjectMetaRacers.257.rsp"
 		],
 		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
 	},
@@ -27,7 +35,7 @@
 		"file": "C:\\Unreal Projects\\ProjectMetaRacers\\ProjectMetaRacers\\Source\\ProjectMetaRacers\\ProjectMetaRacers.h",
 		"arguments": [
 			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
-			"@C:\\Unreal Projects\\ProjectMetaRacers\\ProjectMetaRacers\\.vscode\\compileCommands_ProjectMetaRacers\\ProjectMetaRacers.255.rsp"
+			"@C:\\Unreal Projects\\ProjectMetaRacers\\ProjectMetaRacers\\.vscode\\compileCommands_ProjectMetaRacers\\ProjectMetaRacers.257.rsp"
 		],
 		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
 	},
@@ -35,7 +43,7 @@
 		"file": "C:\\Unreal Projects\\ProjectMetaRacers\\ProjectMetaRacers\\Source\\ProjectMetaRacers\\ProjectMetaRacersGameModeBase.cpp",
 		"arguments": [
 			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
-			"@C:\\Unreal Projects\\ProjectMetaRacers\\ProjectMetaRacers\\.vscode\\compileCommands_ProjectMetaRacers\\ProjectMetaRacers.255.rsp"
+			"@C:\\Unreal Projects\\ProjectMetaRacers\\ProjectMetaRacers\\.vscode\\compileCommands_ProjectMetaRacers\\ProjectMetaRacers.257.rsp"
 		],
 		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
 	},
@@ -43,7 +51,15 @@
 		"file": "C:\\Unreal Projects\\ProjectMetaRacers\\ProjectMetaRacers\\Source\\ProjectMetaRacers\\ProjectMetaRacersGameModeBase.h",
 		"arguments": [
 			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
-			"@C:\\Unreal Projects\\ProjectMetaRacers\\ProjectMetaRacers\\.vscode\\compileCommands_ProjectMetaRacers\\ProjectMetaRacers.255.rsp"
+			"@C:\\Unreal Projects\\ProjectMetaRacers\\ProjectMetaRacers\\.vscode\\compileCommands_ProjectMetaRacers\\ProjectMetaRacers.257.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Unreal Projects\\ProjectMetaRacers\\ProjectMetaRacers\\Source\\ProjectMetaRacers\\Public\\PlayerCar.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Unreal Projects\\ProjectMetaRacers\\ProjectMetaRacers\\.vscode\\compileCommands_ProjectMetaRacers\\ProjectMetaRacers.257.rsp"
 		],
 		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
 	},
@@ -51,7 +67,7 @@
 		"file": "C:\\Unreal Projects\\ProjectMetaRacers\\ProjectMetaRacers\\Source\\ProjectMetaRacers\\Public\\PlayerPawn.h",
 		"arguments": [
 			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
-			"@C:\\Unreal Projects\\ProjectMetaRacers\\ProjectMetaRacers\\.vscode\\compileCommands_ProjectMetaRacers\\ProjectMetaRacers.255.rsp"
+			"@C:\\Unreal Projects\\ProjectMetaRacers\\ProjectMetaRacers\\.vscode\\compileCommands_ProjectMetaRacers\\ProjectMetaRacers.257.rsp"
 		],
 		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
 	}
