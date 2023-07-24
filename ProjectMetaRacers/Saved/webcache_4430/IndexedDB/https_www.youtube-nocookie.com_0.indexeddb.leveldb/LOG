@@ -1,6 +1,0 @@
-2023/07/03-00:12:52.257 590 Creating DB C:/Unreal Projects/ProjectMetaRacers/ProjectMetaRacers/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb since it was missing.
-2023/07/03-00:12:52.265 590 Reusing MANIFEST C:/Unreal Projects/ProjectMetaRacers/ProjectMetaRacers/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
-2023/07/03-00:20:42.887 2c54 Level-0 table #5: started
-2023/07/03-00:20:42.896 2c54 Level-0 table #5: 1167 bytes OK
-2023/07/03-00:20:42.897 2c54 Delete type=0 #3
-2023/07/03-00:20:42.898 2c54 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
