@@ -1,11 +1,11 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "c:\\users\\fals3\\desktop\\summer repo\\projectmetaracers\\projectmetaracers\\projectmetaracers\\intermediate\\build\\win64\\unrealeditor\\inc\\projectmetaracers\\uht\\projectmetaracers.init.gen.cpp",
+        "Source": "c:\\unreal projects\\projectmetaracers\\projectmetaracers\\intermediate\\build\\win64\\unrealeditor\\inc\\projectmetaracers\\uht\\projectmetaracers.init.gen.cpp",
         "ProvidedModule": "",
-        "PCH": "c:\\users\\fals3\\desktop\\summer repo\\projectmetaracers\\projectmetaracers\\projectmetaracers\\intermediate\\build\\win64\\projectmetaracerseditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "PCH": "c:\\unreal projects\\projectmetaracers\\projectmetaracers\\intermediate\\build\\win64\\projectmetaracerseditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
         "Includes": [
-            "c:\\users\\fals3\\desktop\\summer repo\\projectmetaracers\\projectmetaracers\\projectmetaracers\\intermediate\\build\\win64\\unrealeditor\\development\\projectmetaracers\\definitions.projectmetaracers.h"
+            "c:\\unreal projects\\projectmetaracers\\projectmetaracers\\intermediate\\build\\win64\\unrealeditor\\development\\projectmetaracers\\definitions.projectmetaracers.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []
